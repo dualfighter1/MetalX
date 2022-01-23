@@ -7,8 +7,6 @@ Grew and changed.
 
 Current Developers. 
 
-Coders:
-   DualFighter1
-Artist
-   DualFighter1
+Coders:/nDualFighter1
+Artist/nDualFighter1
 Musicians
