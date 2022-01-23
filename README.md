@@ -1,18 +1,4 @@
-In the dead of night, a meteor was spotted.
-Said meteor full of all new metals.
-And evil spirits.
+# MetalX
 
-Metal found underground evolved.
-Grew and changed.
-
-Current Developers. 
-
-Coders:
-
-DualFighter1
-
-Artist:
-
-DualFighter1
-
-Musicians
+A new terraria mod here to create a new section for the games metal-working area.
+This includes adding a new set of metals and their own tools and new metal based bosses and biomes.
