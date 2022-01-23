@@ -1,0 +1,4 @@
+displayName = Metal X
+author = DualFighter1
+version = 0.1
+homepage = https://metal-x--terraria-mod.webnode.co.uk/
