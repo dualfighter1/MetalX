@@ -7,6 +7,12 @@ Grew and changed.
 
 Current Developers. 
 
-Coders:/nDualFighter1
-Artist/nDualFighter1
+Coders:
+
+DualFighter1
+
+Artist:
+
+DualFighter1
+
 Musicians
