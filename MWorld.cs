@@ -11,7 +11,7 @@ namespace MWorld
 {
     public class MWorld : ModSystem
     {
-        private void OreGeneration(GenerationProgress progress)
+        private void OreGeneration(GenerationProgress progress) 
         {
             progress.Message = "Destroying Science Facilities";
             for(int i = 0; i < (int)((Main.maxTilesX * Main.maxTilesY) * 7E-04); i++)
@@ -20,7 +20,7 @@ namespace MWorld
                 int y = WorldGen.genRand.Next((int)WorldGen.worldSurfaceLow, Main.maxTilesY);
 
                 Tile tile = Framing.GetTileSafely(x, y);
-                if (Tile.IsActive() && (tile.type == TileID.Stone))
+                if (tile.IsActive && tile.type == TileID.Stone)
                 {
                     WorldGen.TileRunner(x, y, WorldGen.genRand.Next(2, 7), WorldGen.genRand.Next(1, 5), TileType<MetalX.blocks.steelore>());
                 }
