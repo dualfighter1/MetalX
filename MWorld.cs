@@ -22,7 +22,7 @@ namespace MWorld
                 Tile tile = Framing.GetTileSafely(x, y);
                 if(Tile.IsActive() && (tile.type == TileID.Stone))
                 {
-                    WorldGen.TileRunner(x, y, WorldGen.genRand.Next(2, 7), WorldGen.genRand.Next(1, 5), TileType<MetalX.blocks. steelore>());
+                    WorldGen.TileRunner(x, y, WorldGen.genRand.Next(2, 7), WorldGen.genRand.Next(1, 5), TileType<MetalX.blocks.steelore>());
                 }
             }
         }
